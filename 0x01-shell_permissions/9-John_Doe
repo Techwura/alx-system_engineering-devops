@@ -1,2 +1,2 @@
 #!/bin/bash
-nb:file hello
+chmod 753 hello
